@@ -3,9 +3,9 @@
 
 :root {
     --laranja-claro: #acc9de;
-    --alto-contraste-fundo: #176da9;
-    --alto-contraste-texto: #176da9;
-    --alto-contraste-link: #176da9;
+    --alto-contraste-fundo: #212c33;
+    --alto-contraste-texto: #212c33;
+    --alto-contraste-link: #212c33;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #176da9;
+    background-color: #212c33;
 }
 
 
@@ -24,7 +24,7 @@ section {
 
 
 .nav-link {
-    color: #176da9;
+    color: #212c33;
     font-weight: 600;
 }
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #176da9;
+    background-color: #212c33;
 
 }
 
@@ -121,7 +121,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #176da9;
+    background-color: #212c33;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
@@ -132,13 +132,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #176da9;
+    background-color: #212c33;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #176da9;
+    background-color: #212c33;
 }
 .menu-acessibilidade{
     position: fixed;
